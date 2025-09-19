@@ -1,9 +1,5 @@
-[
-  { "name": "Gestão de Frota", "url": "https://502720-340e5b540fa447b58c8e645088cb03c5-6-latest.app.mgx.dev/" },
-  { "name": "Escritório de advogado", "url": "https://legal-flow-f3371261.base44.app" },
-  { "name": "Ambulatório dos Bombeiros", "url": "https://sis-amb-militar-3d556de8.base44.app" },
-  { "name": "GestForma", "url": "https://mgx-hfif37kq2zq.mgx.world" },
-  { "name": "Gestão de Stock", "url": "https://369911-08e03ac0290f4cd4926dfec89534afd4-6-latest.app.mgx.dev/" },
+[  
+ 
   { "name": "Clínica Militar - Gestão", "url": "https://clinicamilitar-gestao-mpl3.vercel.app/" },
   { "name": " Site de Perdidos & Achados", "url": "https://perdidos-revisado.vercel.app/" },
   { "name": "Sistema de Gestão de Veículos", "url": "https://fleet-guardian-core.vercel.app/" },
@@ -11,7 +7,7 @@
   { "name": "Sistema de Venda", "url": "https://angola-factura-pro.vercel.app/" },
   { "name": "Sistema de Gestão Escolar", "url": "https://schoolmate-opus.vercel.app/" },
   { "name": "Sistema de Gestão de Restaurante", "url": "https://tabletales-hub.vercel.app/" },
-  { "name": "Sistema de Gestão de HST", "url": "https://tabletales-hub-u77i.vercel.app/" },
-  { "name": "Sistema de Gestão júridica(escritório)", "url": "https://479983-f0f8355c134e4b3ca2ccaf48903634a0-6-latest.app.mgx.dev/" },
-  { "name": "Sistema de Gestão de Taxi", "url": "https://b7ggtf77mvinw.mocha.app/?_gl=1*1mqr0d5*_gcl_au*MTA2OTk0MzA5NC4xNzU4MDE0MTEy*_ga*MTk5ODYxMzA2OC4xNzU4MDE0MTEy*_ga_GDB6XB9V0Z*czE3NTgxODQ3NTIkbzQkZzEkdDE3NTgxODQ4NzMkajQyJGwwJGgw" }
+  { "name": "Sistema de Gestão de HST", "url": "https://tabletales-hub-u77i.vercel.app/" },  
+  
 ]
+
